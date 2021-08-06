@@ -5,7 +5,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anzil khaN</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnzilkhaN&label=Profile%20views&color=0e75b6&style=flat" alt="AnzilkhaN" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnzilkhaN&label=Profile%20views&color=259076&style=flat" alt="AnzilkhaN" /> </p>
 </br>
 
 <!-- <a href="https://discord.gg/XTW52Kt">
@@ -45,12 +45,14 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 **My github stats:**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN" alt="AnzilkhaN" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN&theme=onedark" alt="AnzilkhaN" /></a> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AnzilkhaN&show_icons=true&theme=gotham" alt="AnzilkhaN" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AnzilkhaN&show_icons=true&theme=dark" alt="AnzilkhaN" />
 </br></br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnzilkhaN&show_icons=true&locale=en&layout=compact" alt="AnzilkhaN" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnzilkhaN&show_icons=true&locale=en&layout=compact&theme=dark" alt="AnzilkhaN" /></p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzilkhaN&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **AnzilkhaN/AnzilkhaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
