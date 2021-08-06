@@ -3,7 +3,7 @@
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm Anzil khaN. ![](https://visitor-badge.glitch.me/badge?page_id=AnzilkhaN.AnzilkhaN) -->
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anzil khaN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnzilkhaN&label=Profile%20views&color=0e75b6&style=flat" alt="AnzilkhaN" /> </p>
 
@@ -21,7 +21,19 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
 
-📈 my github stats 
+
+## Skills 💻
+- TypeScript, JavaScript, Angular
+- HTML5, SASS, CSS, RWD
+
+<!-- - 👨‍💻 HTML5, TypeScript, JavaScript
+- ⚙️ Angular
+- 👁️ SASS, CSS, Stylus -->
+
+<!-- 📈 my github stats  -->
+
+
+## My github stats
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN" alt="AnzilkhaN" /></a> </p>
 
