@@ -8,9 +8,9 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnzilkhaN&label=Profile%20views&color=259076&style=flat" alt="AnzilkhaN" /> </p>
 </br>
 
-<a href="https://discord.gg/XTW52Kt">
+<!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Anzil khaN's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+</a> -->
 <a href="https://twitter.com/AnzilkhaN27">
   <img align="left" alt="Anzil khaN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
