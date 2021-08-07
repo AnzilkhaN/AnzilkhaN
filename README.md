@@ -8,18 +8,19 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnzilkhaN&label=Profile%20views&color=259076&style=flat" alt="AnzilkhaN" /> </p>
 </br>
 
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Anzil khaN's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/AnzilkhaN27">
+  <img align="left" alt="Anzil khaN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/anzil-khan/">
+  <img align="left" alt="Anzil khaN's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+<a href="https://open.spotify.com/user/5smnkrihnx6f8ljcnoyz3wiqi?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Anzil khaN's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+</br></br>
 
 **Languages and Tools:**  
 
