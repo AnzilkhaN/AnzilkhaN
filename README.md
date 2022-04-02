@@ -20,9 +20,9 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <a href="https://www.linkedin.com/in/anzil-khan/">
   <img align="left" alt="Anzil khaN's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/5smnkrihnx6f8ljcnoyz3wiqi?si=WaLKpwvWTle0btle2qPb6g">
+<!-- <a href="https://open.spotify.com/user/5smnkrihnx6f8ljcnoyz3wiqi?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Anzil khaN's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 </br></br>
 
 **Languages and Tools:**  
