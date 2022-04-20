@@ -54,7 +54,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 **My github stats:**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN&theme=onedark" alt="AnzilkhaN" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width: 60%; src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN&theme=onedark" alt="AnzilkhaN" /></a> </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AnzilkhaN&show_icons=true&theme=dark" alt="AnzilkhaN" />
 </br>
