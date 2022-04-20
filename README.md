@@ -17,7 +17,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <!-- <section style="display: flex;"> -->
 <!-- <div class="left-side"> -->
 <a href="https://app.daily.dev/AnzilkhaN">
-  <img src="https://api.daily.dev/devcards/a4d731a2a6644467b67fee069c159ef5.png?r=ij1" width="300" align="right" alt="Anzil khaN's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/a4d731a2a6644467b67fee069c159ef5.png?r=ij1" width="280" align="right" alt="Anzil khaN's Dev Card"/>
 </a> 
 
 <img align="left" src="https://komarev.com/ghpvc/?username=AnzilkhaN&label=Profile%20views&color=259076&style=flat" alt="AnzilkhaN" />
