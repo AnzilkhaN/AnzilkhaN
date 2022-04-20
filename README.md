@@ -25,6 +25,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 </br>
 </br>
 </br>
+
+**You can also find me on...**
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Anzil khaN's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
@@ -40,9 +42,47 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <!-- <a href="https://open.spotify.com/user/5smnkrihnx6f8ljcnoyz3wiqi?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Anzil khaN's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
-</br></br>
+</br></br></br>
 
-**Languages and Tools:**  
+**Skills**
+
+<a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+
+<a href="https://sass-lang.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</a>
+
+<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+
+<a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white">
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typeScript&logoColor=white">
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+</a>
+
+<!-- **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -50,7 +90,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 
-</br>
+</br> -->
 
 <!-- 
 ## Skills 💻
@@ -62,6 +102,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - 👁️ SASS, CSS, Stylus -->
 
 <!-- 📈 my github stats  -->
+
+</br></br>
 
 
 **My github stats:**
