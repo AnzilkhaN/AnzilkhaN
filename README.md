@@ -2,7 +2,17 @@
 
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm Anzil khaN. ![](https://visitor-badge.glitch.me/badge?page_id=AnzilkhaN.AnzilkhaN) -->
 
-<h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anzil khaN</h1>
+<h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anzil khaN 
+<!--   <a href="https://stackoverflow.com/users/5238602/anzil-khan?tab=profile">
+  <img alt="Anzil khaN's LinkedIN" width="22px" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png" />
+  </a>
+  <a href="https://twitter.com/AnzilkhaN27">
+    <img alt="Anzil khaN | Twitter" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/anzil-khan/">
+    <img alt="Anzil khaN's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a> -->
+</h1> 
 
 <!-- <section style="display: flex;"> -->
 <!-- <div class="left-side"> -->
@@ -11,6 +21,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 </a> 
 
 <img align="left" src="https://komarev.com/ghpvc/?username=AnzilkhaN&label=Profile%20views&color=259076&style=flat" alt="AnzilkhaN" />
+</br>
 </br>
 </br>
 <!-- <a href="https://discord.gg/XTW52Kt">
