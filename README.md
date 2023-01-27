@@ -114,11 +114,15 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnzilkhaN&show_icons=true&theme=dark" alt="AnzilkhaN" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnzilkhaN&theme=onedark" alt="Anzil Khan" />
 </p>
 
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnzilkhaN&show_icons=true&theme=onedark" alt="AnzilkhaN" />
+</p> -->
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnzilkhaN&show_icons=true&locale=en&layout=compact&theme=dark" alt="AnzilkhaN" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnzilkhaN&show_icons=true&locale=en&layout=compact&theme=onedark" alt="AnzilkhaN" />
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzilkhaN&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -145,6 +149,7 @@ Here are some ideas to get you started:
   
 <!-- </div> -->
 <!-- </section> -->
+
 
   
 
