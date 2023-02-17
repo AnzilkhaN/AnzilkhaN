@@ -107,22 +107,25 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 
 **My github stats:**
-<p align="left">
+<!-- <p align="left">
   <a align="left" href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="60%" src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN&theme=onedark" alt="AnzilkhaN" />
   </a>
-</p>
+</p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN&theme=onedark&margin-w=18&no-frame=true" alt="Anzil khaN" /></a> </p>
 
-<p align="left">
+<!-- <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnzilkhaN&theme=onedark" alt="Anzil Khan" />
-</p>
+</p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnzilkhaN&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AnzilkhaN&show_icons=true&theme=onedark" alt="AnzilkhaN" />
 </p> -->
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AnzilkhaN&show_icons=true&locale=en&layout=compact&theme=onedark" alt="AnzilkhaN" />
+  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AnzilkhaN&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="AnzilkhaN" />
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzilkhaN&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
