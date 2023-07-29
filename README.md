@@ -26,23 +26,24 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 </br>
 </br>
 
-**You can also find me on...**
-<!-- <a href="https://discord.gg/XTW52Kt">
+<!-- **You can also find me on...**
+<a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Anzil khaN's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
+</a>
 <a href="https://stackoverflow.com/users/5238602/anzil-khan?tab=profile">
-  <img align="left" alt="Anzil khaN's LinkedIN" width="22px" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png" />
+  <img align="left" alt="Anzil khaN | Stackoverflow" width="22px" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png" />
 </a>
 <a href="https://twitter.com/AnzilkhaN27">
   <img align="left" alt="Anzil khaN | Twitter" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anzil-khan/">
-  <img align="left" alt="Anzil khaN's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  <img align="left" alt="Anzil khaN | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> -->
+<!-- <a href="https://cdnlogo.com/logo/twitter-icon_498.html"><img src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg"></a> -->
 <!-- <a href="https://open.spotify.com/user/5smnkrihnx6f8ljcnoyz3wiqi?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Anzil khaN's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
-</br></br></br>
+</a>
+</br></br></br> -->
 
 **Skills**
 
@@ -106,27 +107,30 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 </br></br></br>
 
 
-**My github stats:**
+
 <!-- <p align="left">
   <a align="left" href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="60%" src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN&theme=onedark" alt="AnzilkhaN" />
   </a>
 </p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN&theme=onedark&margin-w=18&no-frame=true" alt="Anzil khaN" /></a> </p>
+</br></br></br></br></br>
+**My github stats:**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnzilkhaN&theme=onedark&margin-w=16&no-frame=true&column=7" alt="Anzil khaN" /></a> </p>
 
 <!-- <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnzilkhaN&theme=onedark" alt="Anzil Khan" />
-</p> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnzilkhaN&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnzilkhaN&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnzilkhaN&card_width=477&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AnzilkhaN&show_icons=true&theme=onedark" alt="AnzilkhaN" />
-</p> -->
+</p>
 
 <p align="left">
   <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AnzilkhaN&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="AnzilkhaN" />
-</p>
+</p> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzilkhaN&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
