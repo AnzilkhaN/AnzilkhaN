@@ -47,6 +47,9 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anzil-Aufait&card_width=417&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://app.daily.dev/AnzilkhaN">
+<img src="https://api.daily.dev/devcards/a4d731a2a6644467b67fee069c159ef5.png?r=ij1" width="280" align="right" alt="Anzil khaN's Dev Card"/> 
+</a>
 
 
 
@@ -69,8 +72,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 </h1> --> 
 
 <!-- <section style="display: flex;"> -->
-<!-- <div class="left-side"> -->
-<a href="https://app.daily.dev/AnzilkhaN">
+<!-- <div class="left-side">
+<a href="https://app.daily.dev/AnzilkhaN"> -->
 <!--   <img src="https://api.daily.dev/devcards/a4d731a2a6644467b67fee069c159ef5.png?r=ij1" width="280" align="right" alt="Anzil khaN's Dev Card"/> 
   <img src="https://github.com/AnzilkhaN/AnzilkhaN/blob/main/devcard.svg" width="280" align="right" alt="Anzil khaN's Dev Card"/>
 </a>-->
