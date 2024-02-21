@@ -47,9 +47,11 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anzil-Aufait&card_width=417&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<a href="https://app.daily.dev/AnzilkhaN">
+<a href="https://app.daily.dev/anzilkhan"><img src="https://api.daily.dev/devcards/v2/zPCqkjB4XpJNdFF32eUKH.png?type=default&r=69j" width="280" align="right" alt="Anzil khaN's Dev Card"/></a>
+
+<!-- <a href="https://app.daily.dev/AnzilkhaN">
 <img src="https://api.daily.dev/devcards/a4d731a2a6644467b67fee069c159ef5.png?r=ij1" width="280" align="right" alt="Anzil khaN's Dev Card"/> 
-</a>
+</a> -->
 
 
 
